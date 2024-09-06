@@ -23,7 +23,7 @@ const Dock = React.forwardRef<HTMLDivElement, DockProps>(
   (
     {
       className,
-      children,
+        children,
       magnification = DEFAULT_MAGNIFICATION,
       distance = DEFAULT_DISTANCE,
       ...props
