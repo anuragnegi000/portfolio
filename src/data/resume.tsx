@@ -1,4 +1,5 @@
 import { Icons } from "@/components/icons";
+import { image } from "framer-motion/client";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 // import {githubissuetracker} from "../../public/githubissuetracker.mp4"
 
@@ -64,6 +65,19 @@ export const DATA = {
       description:
         "Implemented Backend API's in Live projects and created a website using Next.js and TailwindCSS.",
     },
+  ],
+
+  contributions:[
+    {
+      title:"The palisadoes foundation",
+      github:"https://github.com/palisadoesfoundation",
+      image:"",
+    },
+    {
+      title:"Async API Initiative",
+      github:"https://github.com/asyncapi",
+      image:""
+    }
   ],
 
   projects: [
