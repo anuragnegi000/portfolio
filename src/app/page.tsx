@@ -1,4 +1,5 @@
 import { HackathonCard } from "@/components/hackathon-card";
+import { Hireme } from "@/components/hireme";
 import BlurFade from "@/components/magicui/blur-fade";
 import BlurFadeText from "@/components/magicui/blur-fade-text";
 import LetterPullup from "@/components/magicui/letter-pullup";
@@ -129,6 +130,10 @@ export default function Page() {
                 />
               </BlurFade>
             ))}
+            
+          </div>
+          <div className="">
+            <Hireme />
           </div>
         </div>
       </section>

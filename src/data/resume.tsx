@@ -5,7 +5,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Anurag negi",
-  initials: "DV",
+  initials: "./pfp.jpg",
   url: "https://avatars.githubusercontent.com/u/115611556?v=4",
   location: "Dehradun, UK",
   locationLink: "",
