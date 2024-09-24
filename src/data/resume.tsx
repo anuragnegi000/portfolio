@@ -67,23 +67,23 @@ export const DATA = {
     },
   ],
 
-  contributions:[
+  contributions: [
     {
-      title:"The palisadoes foundation",
-      github:"https://github.com/palisadoesfoundation",
-      image:"",
+      title: "The palisadoes foundation",
+      github: "https://github.com/palisadoesfoundation",
+      image: "",
     },
     {
-      title:"Async API Initiative",
-      github:"https://github.com/asyncapi",
-      image:""
-    }
+      title: "Async API Initiative",
+      github: "https://github.com/asyncapi",
+      image: "",
+    },
   ],
 
   projects: [
     {
       title: "Borrow (chat-app)",
-      href: "https://chatcollect.com",
+      href: "https://borrow-chats.vercel.app/",
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
